@@ -13,7 +13,7 @@
   },
   "main": "api/index.ts",
   "ampt": {
-    "org": "",
+    "org": "marquezhh591781",
     "app": "react-vite"
   },
   "files": [
